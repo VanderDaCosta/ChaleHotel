@@ -8,5 +8,6 @@
 <br>
 <br>
 <br>
-<br>
-Link para a visualização da pagina finalizada: <a>https://vanderdacosta.github.io/ChaleHotel/</a>
+
+
+**Projeto completo:** <a> https://vanderdacosta.github.io/ChaleHotel/</a>
